@@ -1,0 +1,68 @@
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\DataLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\DataLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\DataLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\DataLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\BusinessLayer\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll

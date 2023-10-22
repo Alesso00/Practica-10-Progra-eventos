@@ -1,0 +1,124 @@
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.exe
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.deps.json
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.Forms.StudentForm.resources
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CopyComplete
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\refint\PresentationLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\ref\PresentationLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\CommonLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\CommonLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\FluentValidation.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.exe
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.deps.json
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\FluentValidation.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\CommonLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\CommonLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.Forms.StudentForm.resources
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CopyComplete
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\refint\PresentationLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\ref\PresentationLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.exe
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.deps.json
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\FluentValidation.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\CommonLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.pdb
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\CommonLayer.pdb
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.pdb
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.Forms.StudentForm.resources
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CopyComplete
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\refint\PresentationLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\ref\PresentationLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.exe
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.deps.json
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.runtimeconfig.json
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\FluentValidation.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\CommonLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\BusinessLayer.pdb
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\CommonLayer.pdb
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\bin\Debug\net6.0-windows\DataLayer.pdb
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.Forms.StudentForm.resources
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfoInputs.cache
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.AssemblyInfo.cs
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.csproj.CopyComplete
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\refint\PresentationLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.pdb
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\PresentationLayer.genruntimeconfig.cache
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\PresentationLayer\obj\Debug\net6.0-windows\ref\PresentationLayer.dll

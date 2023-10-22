@@ -1,0 +1,60 @@
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\DataLayer\bin\Debug\net6.0\DataLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\DataLayer\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\DataLayer\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#9POE\practica#9POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CopyComplete
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\bin\Debug\net6.0\DataLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CopyComplete
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+C:\Users\Williams\Desktop\practicas\PRACTICAS DE POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\bin\Debug\net6.0\DataLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CopyComplete
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+C:\Users\Alessandro\Downloads\practica#10POE\practica#10POE\practica#10POE\Practica #9 POE\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\DataLayer\bin\Debug\net6.0\DataLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\DataLayer\bin\Debug\net6.0\CommonLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\DataLayer\bin\Debug\net6.0\CommonLayer.pdb
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CopyComplete
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+C:\Users\Alessandro\Desktop\Practica 10 programacion orientada a eventos\Practica #9 POE\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll
